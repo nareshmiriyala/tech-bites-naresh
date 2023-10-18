@@ -1,0 +1,15 @@
+langchain~=0.0.291
+faiss-cpu
+openai
+unstructured
+python-magic-bin
+tiktoken
+requests~=2.31.0
+numpy
+Flask
+requests
+jsonify
+chainlit
+python-dotenv
+psycopg2-binary
+selenium
